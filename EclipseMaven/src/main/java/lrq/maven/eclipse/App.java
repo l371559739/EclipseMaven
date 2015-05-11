@@ -1,4 +1,4 @@
-package lrq.maven.EclipseMaven;
+package lrq.maven.eclipse;
 
 /**
  * Hello world!

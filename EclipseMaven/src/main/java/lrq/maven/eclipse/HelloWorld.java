@@ -1,4 +1,4 @@
-package lrq.maven.EclipseMaven;
+package lrq.maven.eclipse;
 
 public class HelloWorld {
 	public static void main(String[] args) {
